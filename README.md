@@ -139,6 +139,7 @@ Controllare che le operazioni richieste siano autorizzate
 
 
 CLASSIFICAZIONE DELLE FUNZIONALITÀ (REQUISITI)
+
 Registrazione della società con nome, email e password → Funzionale
 Login e logout → Funzionale
 Modifica dei dati della società → Funzionale
@@ -201,106 +202,107 @@ Gestione dei messaggi di errore → Non funzionale
 
 
 USER STORY
+
 “As a [who], I want [what], so that [why].”
 
-Registrazione della società
+Registrazione della società:
 As a tennis club, I want to register on TennisMatch, so that I can use the platform to find opponents for my players.
 
-Login e logout
+Login e logout:
 As a registered tennis club, I want to log in and log out, so that I can securely access my club account.
 
-Gestione dell'account
+Gestione dell'account:
 As a tennis club, I want to modify or delete my account data, so that I can keep my information updated or remove my account.
 
-Gestione dei tennisti
+Gestione dei tennisti:
 As a tennis club, I want to add and manage my players, so that I can keep their information updated on the platform.
 
-Creazione del profilo del tennista
+Creazione del profilo del tennista:
 As a tennis club, I want to create a profile for each player, so that I can provide the information needed to find compatible opponents.
 
-Visualizzazione del profilo
+Visualizzazione del profilo:
 As a tennis club, I want to view my players' profiles, so that I can check their information and preferences.
 
-Ricerca di giocatori
+Ricerca di giocatori:
 As a tennis club, I want to search for players from other clubs, so that I can find suitable opponents for my players.
 
-Filtri di ricerca
+Filtri di ricerca:
 As a tennis club, I want to filter players by level, surface, location and availability, so that I can find opponents with characteristics suitable for my players.
 
-Visualizzazione dei profili
+Visualizzazione dei profili:
 As a tennis club, I want to view the profiles of players from other clubs, so that I can evaluate potential opponents.
 
-Compatibilità
+Compatibilità:
 As a tennis club, I want to see the compatibility percentage between players, so that I can quickly identify the most suitable opponents.
 
-Ordinamento dei risultati
+Ordinamento dei risultati:
 As a tennis club, I want to sort the search results by compatibility, so that I can see the most suitable opponents first.
 
-Invio di una richiesta
+Invio di una richiesta:
 As a tennis club, I want to send a match request for one of my players, so that I can propose a match to another club.
 
-Gestione delle richieste
+Gestione delle richieste:
 As a tennis club, I want to accept or reject received match requests, so that I can decide whether to organize the proposed match.
 
-Stato della richiesta
+Stato della richiesta:
 As a tennis club, I want to view the status of my match requests, so that I know whether they have been accepted or rejected.
 
-Notifiche
+Notifiche:
 As a tennis club, I want to receive notifications about match requests, so that I know when I receive a new request or when one of my requests receives a response.
 
-Organizzazione della partita
+Organizzazione della partita:
 As a tennis club, I want to choose the date, time and location of a match, so that I can organize the match between the two players.
 
-Conferma della partita
+Conferma della partita:
 As a tennis club, I want to confirm a match, so that both clubs know that the match has been scheduled.
 
-Annullamento della partita
+Annullamento della partita:
 As a tennis club, I want to cancel a scheduled match, so that I can notify the other club if the match cannot take place.
 
-Stato della partita
+Stato della partita:
 As a tennis club, I want to view the status of my matches, so that I know which matches are scheduled, completed or cancelled.
 
-Inserimento del risultato
+Inserimento del risultato:
 As a tennis club, I want to enter the result of a completed match, so that the result is saved on the platform.
 
-Visualizzazione del risultato
+Visualizzazione del risultato:
 As a tennis club, I want to view the results of my players' matches, so that I can keep track of their performance.
 
-Storico delle partite
+Storico delle partite:
 As a tennis club, I want to view the match history of my players, so that I can check their previous matches and results.
 
-Statistiche
+Statistiche:
 As a tennis club, I want to view my players' wins and losses, so that I can monitor their performance.
 
-Recensioni
+Recensioni:
 As a tennis club, I want to leave a rating and comment after a match, so that I can give feedback about the opponent.
 
 
-Visualizzazione delle recensioni
+Visualizzazione delle recensioni:
 As a tennis club, I want to view the reviews and average rating of other players, so that I can evaluate potential opponents.
 
-Abbonamento
+Abbonamento:
 As a tennis club, I want to view and manage my subscription, so that I can use the TennisMatch services.
 
-Informazioni sull'abbonamento
+Informazioni sull'abbonamento:
 As a tennis club, I want to view the start and expiration date of my subscription, so that I know how long I can use the platform.
 
-Rinnovo dell'abbonamento
+Rinnovo dell'abbonamento:
 As a tennis club, I want to renew my subscription, so that I can continue using TennisMatch.
 
-Annullamento dell'abbonamento
+Annullamento dell'abbonamento:
 As a tennis club, I want to cancel my subscription, so that I can stop using the paid service.
 
-Gestione delle società
+Gestione delle società:
 As a TennisMatch administrator, I want to view and manage registered tennis clubs, so that I can control the organizations using the platform.
 
-Gestione degli account
+Gestione degli account:
 As a TennisMatch administrator, I want to suspend or delete accounts, so that I can take action against accounts that violate the rules.
 
-Gestione delle partite
+Gestione delle partite:
 As a TennisMatch administrator, I want to view the matches organized on the platform, so that I can monitor the activity of the platform.
 
-Gestione delle segnalazioni
+Gestione delle segnalazioni:
 As a TennisMatch administrator, I want to manage reports, so that I can handle problems or inappropriate behavior on the platform.
 
 Attori:
