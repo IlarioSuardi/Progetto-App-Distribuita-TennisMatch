@@ -357,4 +357,4 @@ USE CASE DIAGRAM (UML)
 
 
 
-![Diagramma dei casi d'uso](use-case-diagram.png)
+![Diagramma dei casi d'uso](use-case-diagram.jpg)
