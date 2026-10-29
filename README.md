@@ -140,65 +140,69 @@ Controllare che le operazioni richieste siano autorizzate
 
 
 CLASSIFICAZIONE DELLE FUNZIONALITÀ (REQUISITI)
+### Classificazione delle Funzionalità (Requisiti)
 
-Registrazione della società con nome, email e password → Funzionale
-Login e logout → Funzionale
-Modifica dei dati della società → Funzionale
-Eliminazione dell'account della società → Funzionale
-Aggiunta di un tennista alla società → Funzionale
-Modifica dei dati di un tennista → Funzionale
-Eliminazione di un tennista dalla società → Funzionale
-Visualizzazione dell'elenco dei propri tennisti → Funzionale
-Creazione del profilo del tennista → Funzionale
-Inserimento del livello di gioco → Di dominio
-Inserimento dello stile di gioco → Di dominio
-Inserimento della superficie preferita → Di dominio
-Inserimento della zona in cui gioca → Di dominio
-Inserimento dei giorni e degli orari disponibili → Di dominio
-Inserimento dell'obiettivo della partita → Di dominio
-Visualizzazione del profilo del tennista → Funzionale
-Ricerca di giocatori appartenenti ad altre società → Funzionale
-Ricerca in base a livello, superficie, zona e disponibilità → Di dominio
-Utilizzo dei filtri di ricerca → Funzionale
-Visualizzazione dei profili degli altri giocatori → Funzionale
-Confronto dei dati tra i giocatori → Di dominio
-Calcolo della percentuale di compatibilità → Di dominio
-Ordinamento dei giocatori per compatibilità → Di dominio
-Visualizzazione della percentuale di compatibilità → Funzionale
-Invio di una richiesta di partita → Funzionale
-Ricezione di una richiesta di partita → Funzionale
-Accettazione o rifiuto di una richiesta → Funzionale
-Visualizzazione dello stato della richiesta → Funzionale
-Notifiche relative alle richieste di partita → Funzionale
-Scelta della data, dell'ora e del luogo della partita → Di dominio
-Conferma della partita → Funzionale
-Modifica dei dati della partita → Funzionale
-Annullamento della partita → Funzionale
-Visualizzazione dello stato della partita → Funzionale
-Inserimento del risultato della partita → Di dominio
-Visualizzazione del risultato → Funzionale
-Visualizzazione dello storico delle partite → Funzionale
-Aggiornamento delle vittorie e delle sconfitte → Di dominio
-Visualizzazione delle statistiche di vittorie e sconfitte → Funzionale
-Inserimento di un voto e di un commento dopo una partita → Di dominio
-Visualizzazione delle recensioni → Funzionale
-Visualizzazione della valutazione media → Funzionale
-Gestione dell'abbonamento annuale della società → Funzionale
-Visualizzazione del piano attuale → Funzionale
-Visualizzazione data inizio e scadenza dell'abbonamento → Funzionale
-Rinnovo dell'abbonamento → Funzionale
-Annullamento dell'abbonamento → Funzionale
-Visualizzazione delle società registrate → Funzionale
-Gestione degli account da parte dell'amministratore → Funzionale
-Sospensione o eliminazione di un account → Funzionale
-Visualizzazione delle partite da parte dell'amministratore → Funzionale
-Gestione delle segnalazioni → Funzionale
-Controllo e validazione dei dati inseriti → Non funzionale
-Password memorizzate in modo sicuro → Non funzionale
-Protezione dei dati degli utenti → Non funzionale
-Separazione dei permessi tra società e amministratori → Non funzionale
-Controllo degli accessi alle funzionalità → Non funzionale
-Gestione dei messaggi di errore → Non funzionale
+| Requisito | Tipo di Requisito |
+| :--- | :--- |
+| Registrazione della società con nome, email e password | Funzionale |
+| Login e logout | Funzionale |
+| Modifica dei dati della società | Funzionale |
+| Eliminazione dell'account della società | Funzionale |
+| Aggiunta di un tennista alla società | Funzionale |
+| Modifica dei dati di un tennista | Funzionale |
+| Eliminazione di un tennista dalla società | Funzionale |
+| Visualizzazione dell'elenco dei propri tennisti | Funzionale |
+| Creazione del profilo del tennista | Funzionale |
+| Inserimento del livello di gioco | Di dominio |
+| Inserimento dello stile di gioco | Di dominio |
+| Inserimento della superficie preferita | Di dominio |
+| Inserimento della zona in cui gioca | Di dominio |
+| Inserimento dei giorni e degli orari disponibili | Di dominio |
+| Inserimento dell'obiettivo della partita | Di dominio |
+| Visualizzazione del profilo del tennista | Funzionale |
+| Ricerca di giocatori appartenenti ad altre società | Funzionale |
+| Ricerca in base a livello, superficie, zona e disponibilità | Di dominio |
+| Utilizzo dei filtri di ricerca | Funzionale |
+| Visualizzazione dei profili degli altri giocatori | Funzionale |
+| Confronto dei dati tra i giocatori | Di dominio |
+| Calcolo della percentuale di compatibilità | Di dominio |
+| Ordinamento dei giocatori per compatibilità | Di dominio |
+| Visualizzazione della percentuale di compatibilità | Funzionale |
+| Invio di una richiesta di partita | Funzionale |
+| Ricezione di una richiesta di partita | Funzionale |
+| Accettazione o rifiuto di una richiesta | Funzionale |
+| Visualizzazione dello stato della richiesta | Funzionale |
+| Notifiche relative alle richieste di partita | Funzionale |
+| Scelta della data, dell'ora e del luogo della partita | Di dominio |
+| Conferma della partita | Funzionale |
+| Modifica dei dati della partita | Funzionale |
+| Annullamento della partita | Funzionale |
+| Visualizzazione dello stato della partita | Funzionale |
+| Inserimento del risultato della partita | Di dominio |
+| Visualizzazione del risultato | Funzionale |
+| Visualizzazione dello storico delle partite | Funzionale |
+| Aggiornamento delle vittorie e delle sconfitte | Di dominio |
+| Visualizzazione delle statistiche di vittorie e sconfitte | Funzionale |
+| Inserimento di un voto e di un commento dopo una partita | Di dominio |
+| Visualizzazione delle recensioni | Funzionale |
+| Visualizzazione della valutazione media | Funzionale |
+| Gestione dell'abbonamento annuale della società | Funzionale |
+| Visualizzazione del piano attuale | Funzionale |
+| Visualizzazione data inizio e scadenza dell'abbonamento | Funzionale |
+| Rinnovo dell'abbonamento | Funzionale |
+| Annullamento dell'abbonamento | Funzionale |
+| Visualizzazione delle società registrate | Funzionale |
+| Gestione degli account da parte dell'amministratore | Funzionale |
+| Sospensione o eliminazione di un account | Funzionale |
+| Visualizzazione delle partite da parte dell'amministratore | Funzionale |
+| Gestione delle segnalazioni | Funzionale |
+| Controllo e validazione dei dati inseriti | Non funzionale |
+| Password memorizzate in modo sicuro | Non funzionale |
+| Protezione dei dati degli utenti | Non funzionale |
+| Separazione dei permessi tra società e amministratori | Non funzionale |
+| Controllo degli accessi alle funzionalità | Non funzionale |
+| Gestione dei messaggi di errore | Non funzionale |
+
 
 
 
