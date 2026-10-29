@@ -17,13 +17,13 @@ Playtomic, TennisPal, Tennis Buddy.
 
 ## **ELENCO DELLE FUNZIONALITA'**
 
-#### 1. Registrazione e accesso della società
+**1. Registrazione e accesso della società**
 > * Registrazione della società tramite nome, email e password
 > * Login e logout
 > * Modifica dei dati della società
 > * Eliminazione dell'account della società
 
-#### 2. Gestione dei tennisti
+**2. Gestione dei tennisti**
 > * Aggiunta di nuovi tennisti appartenenti alla società
 > * Modifica dei dati dei tennisti
 > * Eliminazione di un tennista dalla società
