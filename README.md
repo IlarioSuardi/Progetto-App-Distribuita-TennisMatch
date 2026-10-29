@@ -207,7 +207,6 @@ USER STORY
 
 Registrazione della società:
 As a tennis club, I want to register on TennisMatch, so that I can use the platform to find opponents for my players.
-
 Login e logout:
 As a registered tennis club, I want to log in and log out, so that I can securely access my club account.
 
