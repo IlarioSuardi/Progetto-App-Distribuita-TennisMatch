@@ -204,39 +204,28 @@ Gestione dei messaggi di errore → Non funzionale
 USER STORY
 
 “As a [who], I want [what], so that [why].”
-
 Registrazione della società:
 As a tennis club, I want to register on TennisMatch, so that I can use the platform to find opponents for my players.
 Login e logout:
 As a registered tennis club, I want to log in and log out, so that I can securely access my club account.
-
 Gestione dell'account:
 As a tennis club, I want to modify or delete my account data, so that I can keep my information updated or remove my account.
-
 Gestione dei tennisti:
 As a tennis club, I want to add and manage my players, so that I can keep their information updated on the platform.
-
 Creazione del profilo del tennista:
 As a tennis club, I want to create a profile for each player, so that I can provide the information needed to find compatible opponents.
-
 Visualizzazione del profilo:
 As a tennis club, I want to view my players' profiles, so that I can check their information and preferences.
-
 Ricerca di giocatori:
 As a tennis club, I want to search for players from other clubs, so that I can find suitable opponents for my players.
-
 Filtri di ricerca:
 As a tennis club, I want to filter players by level, surface, location and availability, so that I can find opponents with characteristics suitable for my players.
-
 Visualizzazione dei profili:
 As a tennis club, I want to view the profiles of players from other clubs, so that I can evaluate potential opponents.
-
 Compatibilità:
 As a tennis club, I want to see the compatibility percentage between players, so that I can quickly identify the most suitable opponents.
-
 Ordinamento dei risultati:
 As a tennis club, I want to sort the search results by compatibility, so that I can see the most suitable opponents first.
-
 Invio di una richiesta:
 As a tennis club, I want to send a match request for one of my players, so that I can propose a match to another club.
 
