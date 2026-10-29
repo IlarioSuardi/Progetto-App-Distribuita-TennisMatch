@@ -139,74 +139,68 @@ Controllare che le operazioni richieste siano autorizzate
 
 
 
-CLASSIFICAZIONE DELLE FUNZIONALITÀ (REQUISITI)
-### Classificazione delle Funzionalità (Requisiti)
+###CLASSIFICAZIONE DELLE FUNZIONALITÀ (REQUISITI)
 
-#### 🛠️ Requisiti Funzionali
-- Registrazione della società con nome, email e password
-- Login e logout
-- Modifica dei dati della società
-- Eliminazione dell'account della società
-- Aggiunta di un tennista alla società
-- Modifica dei dati di un tennista
-- Eliminazione di un tennista dalla società
-- Visualizzazione dell'elenco dei propri tennisti
-- Creazione del profilo del tennista
-- Visualizzazione del profilo del tennista
-- Ricerca di giocatori appartenenti ad altre società
-- Utilizzo dei filtri di ricerca
-- Visualizzazione dei profili degli altri giocatori
-- Visualizzazione della percentuale di compatibilità
-- Invio di una richiesta di partita
-- Ricezione di una richiesta di partita
-- Accettazione o rifiuto di una richiesta
-- Visualizzazione dello stato della richiesta
-- Notifiche relative alle richieste di partita
-- Conferma della partita
-- Modifica dei dati della partita
-- Annullamento della partita
-- Visualizzazione dello stato della partita
-- Visualizzazione del risultato
-- Visualizzazione dello storico delle partite
-- Visualizzazione delle statistiche di vittorie e sconfitte
-- Visualizzazione delle recensioni
-- Visualizzazione della valutazione media
-- Gestione dell'abbonamento annuale della società
-- Visualizzazione del piano attuale
-- Visualizzazione data inizio e scadenza dell'abbonamento
-- Rinnovo dell'abbonamento
-- Annullamento dell'abbonamento
-- Visualizzazione delle società registrate
-- Gestione degli account da parte dell'amministratore
-- Sospensione o eliminazione di un account
-- Visualizzazione delle partite da parte dell'amministratore
-- Gestione delle segnalazioni
-
-#### 🎾 Requisiti di Dominio
-- Inserimento del livello di gioco
-- Inserimento dello stile di gioco
-- Inserimento della superficie preferita
-- Inserimento della zona in cui gioca
-- Inserimento dei giorni e degli orari disponibili
-- Inserimento dell'obiettivo della partita
-- Ricerca in base a livello, superficie, zona e disponibilità
-- Confronto dei dati tra i giocatori
-- Calcolo della percentuale di compatibilità
-- Ordinamento dei giocatori per compatibilità
-- Scelta della data, dell'ora e del luogo della partita
-- Inserimento del risultato della partita
-- Aggiornamento delle vittorie e delle sconfitte
-- Inserimento di un voto e di un commento dopo una partita
-
-#### 🔒 Requisiti Non Funzionali
-- Controllo e validazione dei dati inseriti
-- Password memorizzate in modo sicuro
-- Protezione dei dati degli utenti
-- Separazione dei permessi tra società e amministratori
-- Controllo degli accessi alle funzionalità
-- Gestione dei messaggi di errore
-
-
+| Requisito | Tipo di Requisito |
+| :--- | :--- |
+| Registrazione della società con nome, email e password | Funzionale |
+| Login e logout | Funzionale |
+| Modifica dei dati della società | Funzionale |
+| Eliminazione dell'account della società | Funzionale |
+| Aggiunta di un tennista alla società | Funzionale |
+| Modifica dei dati di un tennista | Funzionale |
+| Eliminazione di un tennista dalla società | Funzionale |
+| Visualizzazione dell'elenco dei propri tennisti | Funzionale |
+| Creazione del profilo del tennista | Funzionale |
+| Inserimento del livello di gioco | Di dominio |
+| Inserimento dello stile di gioco | Di dominio |
+| Inserimento della superficie preferita | Di dominio |
+| Inserimento della zona in cui gioca | Di dominio |
+| Inserimento dei giorni e degli orari disponibili | Di dominio |
+| Inserimento dell'obiettivo della partita | Di dominio |
+| Visualizzazione del profilo del tennista | Funzionale |
+| Ricerca di giocatori appartenenti ad altre società | Funzionale |
+| Ricerca in base a livello, superficie, zona e disponibilità | Di dominio |
+| Utilizzo dei filtri di ricerca | Funzionale |
+| Visualizzazione dei profili degli altri giocatori | Funzionale |
+| Confronto dei dati tra i giocatori | Di dominio |
+| Calcolo della percentuale di compatibilità | Di dominio |
+| Ordinamento dei giocatori per compatibilità | Di dominio |
+| Visualizzazione della percentuale di compatibilità | Funzionale |
+| Invio di una richiesta di partita | Funzionale |
+| Ricezione di una richiesta di partita | Funzionale |
+| Accettazione o rifiuto di una richiesta | Funzionale |
+| Visualizzazione dello stato della richiesta | Funzionale |
+| Notifiche relative alle richieste di partita | Funzionale |
+| Scelta della data, dell'ora e del luogo della partita | Di dominio |
+| Conferma della partita | Funzionale |
+| Modifica dei dati della partita | Funzionale |
+| Annullamento della partita | Funzionale |
+| Visualizzazione dello stato della partita | Funzionale |
+| Inserimento del risultato della partita | Di dominio |
+| Visualizzazione del risultato | Funzionale |
+| Visualizzazione dello storico delle partite | Funzionale |
+| Aggiornamento delle vittorie e delle sconfitte | Di dominio |
+| Visualizzazione delle statistiche di vittorie e sconfitte | Funzionale |
+| Inserimento di un voto e di un commento dopo una partita | Di dominio |
+| Visualizzazione delle recensioni | Funzionale |
+| Visualizzazione della valutazione media | Funzionale |
+| Gestione dell'abbonamento annuale della società | Funzionale |
+| Visualizzazione del piano attuale | Funzionale |
+| Visualizzazione data inizio e scadenza dell'abbonamento | Funzionale |
+| Rinnovo dell'abbonamento | Funzionale |
+| Annullamento dell'abbonamento | Funzionale |
+| Visualizzazione delle società registrate | Funzionale |
+| Gestione degli account da parte dell'amministratore | Funzionale |
+| Sospensione o eliminazione di un account | Funzionale |
+| Visualizzazione delle partite da parte dell'amministratore | Funzionale |
+| Gestione delle segnalazioni | Funzionale |
+| Controllo e validazione dei dati inseriti | Non funzionale |
+| Password memorizzate in modo sicuro | Non funzionale |
+| Protezione dei dati degli utenti | Non funzionale |
+| Separazione dei permessi tra società e amministratori | Non funzionale |
+| Controllo degli accessi alle funzionalità | Non funzionale |
+| Gestione dei messaggi di errore | Non funzionale |
 
 
 
