@@ -30,63 +30,63 @@ Playtomic, TennisPal, Tennis Buddy.
 > * Visualizzazione dell'elenco dei propri tennisti
 > * Visualizzazione del profilo del tennista
 
-#### 3. Creazione del profilo del tennista
+**3. Creazione del profilo del tennista**
 > * Inserimento dei parametri: livello di gioco, stile di gioco, superficie preferita, zona in cui gioca, giorni e orari disponibili, obiettivo della partita
 > * Visualizzazione dei dettagli del profilo
 
-#### 4. Ricerca di giocatori
+**4. Ricerca di giocatori**
 > * Ricerca avanzata basata su: livello di gioco, superficie, zona, disponibilità, stile di gioco, obiettivo della partita
 > * Visualizzazione dei profili dei giocatori trovati
 > * Ordinamento dinamico dei risultati in base alla compatibilità
 > * Utilizzo di filtri di ricerca rapidi
 
-#### 5. Confronto e compatibilità
+**5. Confronto e compatibilità**
 > * Confronto incrociato dei parametri dei giocatori (livello, superficie preferita, zona, disponibilità, stile, obiettivo)
 > * Calcolo automatico della percentuale di compatibilità
 > * Ordinamento decrescente dal giocatore più compatibile a quello meno compatibile
 
-#### 6. Visualizzazione dei profili
+**6. Visualizzazione dei profili**
 > * Scheda dettagliata con: nome, società di appartenenza, livello, superficie preferita, stile di gioco, obiettivo, zona, disponibilità
 > * Storico e risultati delle partite (record di vittorie e sconfitte)
 > * Recensioni storiche ricevute e valutazione media
 
-#### 7. Richieste di partita
+**7. Richieste di partita**
 > * Invio di una richiesta di match per un proprio tennista
 > * Ricezione e gestione delle richieste in entrata da altre società
 > * Visualizzazione e monitoraggio dei pannelli "Richieste inviate" e "Richieste ricevute"
 > * Azioni di accettazione o rifiuto delle richieste
 > * Tracciamento dello stato della richiesta
 
-#### 8. Notifiche del sistema
+**8. Notifiche del sistema**
 > * Invio di alert automatici quando: si riceve una nuova richiesta, una richiesta viene accettata/rifiutata, una partita viene confermata, modificata o annullata
 
-#### 9. Organizzazione della partita
+**9. Organizzazione della partita**
 > * Definizione dei dettagli logistici: scelta della data, dell'orario e del luogo dell'incontro
 > * Conferma ufficiale della partita programmata
 > * Modifica dei dati o annullamento dell'evento
 > * Monitoraggio dello stato attuale del match
 
-#### 10. Gestione delle partite e dei risultati
+**10. Gestione delle partite e dei risultati**
 > * Inserimento del risultato finale a match concluso
 > * Passaggio di stato della partita a "completata"
 > * Aggiornamento automatico del record e delle statistiche del tennista (vittorie/sconfitte)
 > * Visualizzazione dello storico pubblico e privato delle partite
 
-#### 11. Sistema di Recensioni
+**11. Sistema di Recensioni**
 > * Possibilità di lasciare un voto numerico e un commento testuale post-partita
 > * Visualizzazione del feed delle recensioni e calcolo in tempo reale della valutazione media
 
-#### 12. Abbonamento della società
+**12. Abbonamento della società**
 > * Monitoraggio del piano attuale, della data di inizio e di scadenza
 > * Funzioni di attivazione, rinnovo manuale o annullamento del piano di abbonamento
 
-#### 13. Gestione amministratore (Pannello Admin)
+**13. Gestione amministratore (Pannello Admin)**
 > * Monitoraggio globale di società e tennisti iscritti sulla piattaforma
 > * Controllo e gestione degli account (sospensione o eliminazione in caso di violazioni)
 > * Supervisione delle partite organizzate e controllo dello stato dei pagamenti degli abbonamenti
 > * Modulo per la gestione e la risoluzione delle segnalazioni degli utenti
 
-#### 14. Sicurezza e controlli
+**14. Sicurezza e controlli**
 > * Validazione e sanificazione dei dati in input
 > * Cifratura e memorizzazione sicura delle password
 > * Controllo degli accessi basato sui ruoli (RBAC): separazione netta tra i permessi delle società e degli amministratori
