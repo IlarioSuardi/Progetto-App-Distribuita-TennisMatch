@@ -1,4 +1,5 @@
 TENNISMATCH
+
 Descrizione: 
 TennisMatch è un'app web rivolta alle società di tennis che permette di trovare e mettere in contatto tennisti compatibili appartenenti a società diverse, in base a livello, zona, disponibilità e preferenze. La società fa da intermediario tra i giocatori e può utilizzare la piattaforma per organizzare nuove partite. Ogni tennista può inoltre visualizzare il proprio storico e il record delle partite.
 Tagline: “Trova il tuo avversario. Gioca la tua partita.”
@@ -309,13 +310,14 @@ As a TennisMatch administrator, I want to manage reports, so that I can handle p
 
 ATTORI
 
--Società sportiva: utilizza la piattaforma, gestisce i propri tennisti e cerca avversari appartenenti ad altre società.
--Tennista: è il giocatore associato a una società e i suoi dati vengono utilizzati per trovare avversari compatibili.
--Amministratore: gestisce le società, gli account, le partite e le segnalazioni della piattaforma.
+1. Società sportiva: utilizza la piattaforma, gestisce i propri tennisti e cerca avversari appartenenti ad altre società.
+2. Tennista: è il giocatore associato a una società e i suoi dati vengono utilizzati per trovare avversari compatibili.
+3. Amministratore: gestisce le società, gli account, le partite e le segnalazioni della piattaforma.
 
 
 
 USE CASE DIAGRAM (UML)
+
 [Società sportiva]^[Utente]
 [Amministratore]^[Utente]
 [Utente]-(Login)
@@ -352,3 +354,7 @@ USE CASE DIAGRAM (UML)
 [Amministratore]-(Gestire account utenti)
 [Amministratore]-(Gestire segnalazioni)
 [Amministratore]-(Controllare abbonamenti)
+
+
+
+![USE CASE DIAGRAM](<img width="10656" height="3152" alt="UML" src="https://github.com/user-attachments/assets/5928e0ee-3c47-4867-828a-5769b52c59d3" />)
