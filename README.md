@@ -357,4 +357,4 @@ USE CASE DIAGRAM (UML)
 
 
 
-![USE CASE DIAGRAM](<img width="10656" height="3152" alt="UML" src="https://github.com/user-attachments/assets/5928e0ee-3c47-4867-828a-5769b52c59d3" />)
+![Diagramma dei casi d'uso](use-case-diagram.png)
