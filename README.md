@@ -295,3 +295,4 @@ Il formato standard utilizzato per definire i requisiti è: “As a [who], I wan
 
 ## **DIAGRAMMA ER**
 ![Diagramma ER](er_diagram.png)
+![Diagramma ER](er_diagram.jpg)
