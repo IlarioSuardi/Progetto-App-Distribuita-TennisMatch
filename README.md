@@ -294,4 +294,5 @@ Il formato standard utilizzato per definire i requisiti è: “As a [who], I wan
 
 
 ![Diagramma dei casi d'uso](use-case-diagram2.jpg)
-![Diagramma dei casi d'uso](er_diagram (JPEG).jpeg)
+
+![Diagramma ER](er_diagram (JPEG).jpeg)
