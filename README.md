@@ -291,8 +291,7 @@ Il formato standard utilizzato per definire i requisiti è: “As a [who], I wan
 [Amministratore]-(Controllare abbonamenti)
 ```
 
-
-
 ![Diagramma dei casi d'uso](use-case-diagram2.jpg)
 
-![Diagramma ER](er_diagram (PNG).png)
+## **DIAGRAMMA ER**
+![Diagramma ER](er_diagram(PNG).png)
