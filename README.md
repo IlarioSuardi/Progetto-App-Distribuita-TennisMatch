@@ -1,6 +1,6 @@
 ## **TENNISMATCH**
 
-Tagline: *“Trova il tuo avversario. Il prossimo set inizia qui!”*
+Tagline: *“TennisMatch: Trova il tuo avversario. Il prossimo set inizia qui!”*
 
 Descrizione del Progetto:
 TennisMatch è un'applicazione web rivolta alle società di tennis che permette di trovare e mettere in contatto tennisti compatibili appartenenti a realtà diverse, basandosi su livello, zona, disponibilità e preferenze di gioco. La società sportiva opera come intermediario tra i giocatori e sfrutta la piattaforma per organizzare nuovi match. Ogni tennista ha inoltre la possibilità di visualizzare il proprio storico e il record aggiornato delle partite.
