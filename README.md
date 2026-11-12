@@ -11,6 +11,7 @@
 **Competitors:** Playtomic, TennisPal, Tennis Buddy.
 
 
+
 ## **ELENCO DELLE FUNZIONALITA'**
 
 **1. Registrazione e accesso della società**
@@ -180,7 +181,6 @@ Rispetto delle regole ufficiali del tennis durante le partite → Di dominio
 
 
 
-
 ## **ATTORI**
 
 * **Società Sportiva:** Acquista e utilizza la piattaforma, gestisce gli allenatori e i tennisti iscritti, cerca giocatori compatibili e organizza le partite all'interno della propria società.
@@ -246,6 +246,7 @@ Il formato standard utilizzato per definire i requisiti è: “As a [who], I wan
   > As a tennis player, I want to view my wins and losses, so that I can monitor my performance.
 * Recensioni:
   > As a tennis player, I want to leave a review after a match, so that I can share my experience.
+
 
   
 ## **USE CASE DIAGRAM (UML)**
