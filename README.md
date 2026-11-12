@@ -1,6 +1,6 @@
 ## **TENNISMATCH**
 
-**Tagline:** “Trova il tuo avversario. Il prossimo set inizia qui!”
+**Tagline:** “TennisMatch: Trova il tuo avversario, il prossimo set inizia qui!”
 
 **Descrizione del Progetto:** TennisMatch è un'applicazione web rivolta alle società tennistiche che permette di gestire i propri tennisti e organizzare partite tra giocatori appartenenti alla stessa società. Ogni allenatore può inserire e gestire i tennisti che segue, creando per ciascuno un profilo con le proprie caratteristiche e disponibilità. La società può utilizzare la piattaforma per trovare giocatori compatibili in base a livello, zona, disponibilità e preferenze di gioco, facilitando l'organizzazione delle partite. Ogni tennista può inoltre visualizzare il proprio storico e il record aggiornato delle partite.
 
@@ -250,12 +250,15 @@ Il formato standard utilizzato per definire i requisiti è: “As a [who], I wan
   
 ## **USE CASE DIAGRAM (UML)**
 ```text
-[Allenatore]^[Utente]
-[Tennista]^[Utente]
+[Visitatore]-(Registrazione società)
 
-[Società sportiva]-(Registrazione)
-[Società sportiva]-(Login)
-[Società sportiva]-(Logout)
+[Società sportiva]^[Utente registrato]
+[Allenatore]^[Utente registrato]
+[Tennista]^[Utente registrato]
+
+[Utente registrato]-(Login)
+[Utente registrato]-(Logout)
+
 [Società sportiva]-(Gestione account)
 [Società sportiva]-(Gestione allenatori)
 [Società sportiva]-(Visualizzare tennisti)
@@ -265,8 +268,6 @@ Il formato standard utilizzato per definire i requisiti è: “As a [who], I wan
 [Società sportiva]-(Monitorare partite)
 [Società sportiva]-(Gestire abbonamento)
 
-[Allenatore]-(Login)
-[Allenatore]-(Logout)
 [Allenatore]-(Gestione tennisti)
 [Allenatore]-(Creazione profilo)
 [Allenatore]-(Modifica profilo)
@@ -277,8 +278,6 @@ Il formato standard utilizzato per definire i requisiti è: “As a [who], I wan
 [Allenatore]-(Organizzare partita)
 [Allenatore]-(Inserire risultato)
 
-[Tennista]-(Login)
-[Tennista]-(Logout)
 [Tennista]-(Visualizzare profilo)
 [Tennista]-(Visualizzare partite)
 [Tennista]-(Visualizzare storico)
@@ -294,6 +293,7 @@ Il formato standard utilizzato per definire i requisiti è: “As a [who], I wan
 (Gestione tennisti)<(Eliminare tennista)
 
 (Creazione profilo)>(Inserire dati sportivi)
+
 (Ricerca giocatori)>(Applicare filtri)
 (Ricerca giocatori)>(Calcolare compatibilità)
 
@@ -306,15 +306,10 @@ Il formato standard utilizzato per definire i requisiti è: “As a [who], I wan
 
 (Visualizzare partite)<(Visualizzare risultato)
 (Visualizzare storico)<(Visualizzare risultati precedenti)
-
-[Amministratore]-(Gestire società)
-[Amministratore]-(Gestire account)
-[Amministratore]-(Controllare abbonamenti)
-[Amministratore]-(Gestire segnalazioni)
 ```
 
 ## **DIAGRAMMA UML**
-![Diagramma dei casi d'uso](use-case-diagram2.jpg)
+![Diagramma dei casi d'uso](use-case-diagram.png)
 
 ## **DIAGRAMMA ER**
 ![Diagramma ER](er-diagram.png)
